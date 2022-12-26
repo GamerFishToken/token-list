@@ -1,0 +1,19 @@
+{
+      "chainId": 101,
+      "address": "5EMvkg8om5H6n475D9vW9gLBGs3Qrsic2Fev4aUjadRa",
+      "symbol": "GFISH",
+      "name": "GamerFish",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/GamerFishToken/main/main/gamerfishlogo.png",
+      "tags": [
+        "social-token",
+        "outside-gaming",
+        "gaming-token",
+        "games-token",
+        "community-token"
+      ],
+      "extensions": {
+        "description": "GamerFish is the first-ever token lifecycle management platform focussed to deliver for players outside of video games.",
+        "website": "http://gamer.fish"
+      }
+    }
